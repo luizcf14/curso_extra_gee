@@ -6,3 +6,8 @@ Ola, Seja bem-vindo ao curso extra de Python para GEE, para que iniciemos verifi
  * Possuir conhecimentos de GEE em JS
 
 Na lista de arquivos acima voce encontrará todos os arquivos do curso, ordenados pelo dia de treinamento.
+
+** Lista de Links das Apresentações
+  * SNIC: https://code.earthengine.google.com/182ec15a870def16a082159f60f331a5
+  * Unmixing: https://code.earthengine.google.com/1f646364d1044614f3ab774a9746a04d
+  * PCA: https://code.earthengine.google.com/ddf126e426d8819d22c7d5f3e9201e0d
